@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/machine learning/best_model_hog_cnn/saved_model.bin"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/machine learning/best_model_hog_cnn/saved_model.bin"
